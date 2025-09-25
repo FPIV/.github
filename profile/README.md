@@ -1,7 +1,3 @@
-Of course. Here is the powerful and epic README file, now in English.
-
------
-
 # 🌌 FPIV
 
 > *Force Primal Infinite Void* — A fundamental force in the digital universe, reshaping the future through algorithmic supremacy, high-performance engineering, and mastery of the primal digital void.
