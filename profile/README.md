@@ -24,7 +24,6 @@ To establish **FPIV** as the **fundamental constant** in the world of high-perfo
 
       * `fpiv_core`: Over **600** advanced and structured algorithms.
       * `fpiv_ui_kit`: Luxurious and innovative UI components.
-      * `fpiv_drawer`: Animated side menus with unique layouts.
       * `fpiv_animations`: Smooth animation tools for an exceptional UX.
 
   * **Cross-language Projects (Coming Soon)**
